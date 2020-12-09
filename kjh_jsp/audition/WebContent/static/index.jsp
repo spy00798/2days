@@ -1,12 +1,9 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Insert title here</title>
-</head>
-<body>
+<pre>
+국가직무능력표준(NCS: National Comp) 어쩌구 저꺼구 내용입니다
 
-</body>
-</html>
+
+내용이 들어갈 내용이비낟
+
+</pre>
